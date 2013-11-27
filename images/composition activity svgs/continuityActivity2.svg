@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="continuityActivity2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="524.44481"
+     inkscape:cy="402.9239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1078.2422"
+       y="342.87109"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="1078.2422"
+         y="342.87109"
+         style="font-size:20px">Create a composition so that the focal point is on the small circle. </tspan><tspan
+         sodipodi:role="line"
+         x="1078.2422"
+         y="367.87109"
+         style="font-size:20px"
+         id="tspan2991">You can use multiple squares. </tspan><tspan
+         sodipodi:role="line"
+         x="1078.2422"
+         y="392.87109"
+         style="font-size:20px"
+         id="tspan2993">You can change the size of the squares. </tspan><tspan
+         sodipodi:role="line"
+         x="1078.2422"
+         y="417.87109"
+         style="font-size:20px"
+         id="tspan2995">You can use just one color. </tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000"
+       id="lockedCircle"
+       sodipodi:cx="859.28571"
+       sodipodi:cy="153.3802"
+       sodipodi:rx="50.714287"
+       sodipodi:ry="50.714287"
+       d="m 909.99999,153.3802 a 50.714287,50.714287 0 1 1 -101.42857,0 50.714287,50.714287 0 1 1 101.42857,0 z"
+       transform="matrix(0.26080894,0,0,0.26080894,484.46202,515.21641)"
+       inkscape:label="#path3263"
+       sodipodi:insensitive="true">
+      <desc
+         id="desc3265">don't move</desc>
+    </path>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.58135521"
+       id="rect3320"
+       width="191.84723"
+       height="191.84723"
+       x="-221.63788"
+       y="442.15286" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2997"
+       y="342.87109"
+       x="-201.75781"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3005"
+         style="font-size:20px"
+         y="342.87109"
+         x="-201.75781"
+         sodipodi:role="line">shapes to use</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="balanceActivity3.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="702.51268"
+     inkscape:cy="378.94624"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1090.9647"
+       y="337.17422"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="1090.9647"
+         y="337.17422"
+         style="font-size:20px">Create a balanced composition using the given objects. </tspan><tspan
+         sodipodi:role="line"
+         x="1090.9647"
+         y="362.17422"
+         style="font-size:20px"
+         id="tspan2996">Don't move the two squares. </tspan><tspan
+         sodipodi:role="line"
+         x="1090.9647"
+         y="387.17422"
+         style="font-size:20px"
+         id="tspan2998">You can use the triangle and the circle multiple times. </tspan></text>
+    <g
+       id="lockedSquares"
+       sodipodi:insensitive="true"
+       inkscape:label="#g3238">
+      <desc
+         id="desc3242">don't move</desc>
+      <rect
+         y="412.36218"
+         x="41.428574"
+         height="281.42856"
+         width="281.42856"
+         id="rect3224"
+         style="fill:none;stroke:#000000" />
+      <rect
+         y="612.36218"
+         x="732.85712"
+         height="281.42856"
+         width="281.42856"
+         id="rect3228"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000"
+       id="path3230"
+       sodipodi:cx="280"
+       sodipodi:cy="568.38019"
+       sodipodi:rx="72.85714"
+       sodipodi:ry="72.85714"
+       d="m 352.85714,568.38019 c 0,40.23789 -32.61925,72.85714 -72.85714,72.85714 -40.23789,0 -72.85714,-32.61925 -72.85714,-72.85714 0,-40.23789 32.61925,-72.85714 72.85714,-72.85714 40.23789,0 72.85714,32.61925 72.85714,72.85714 z"
+       transform="matrix(0.73425184,0,0,0.73425184,-472.89795,59.165145)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000"
+       id="path3234"
+       sodipodi:sides="3"
+       sodipodi:cx="484.28571"
+       sodipodi:cy="178.3802"
+       sodipodi:r1="97.917084"
+       sodipodi:r2="48.958542"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 569.08439,227.33875 -84.79868,0 -84.79869,-1e-5 42.39934,-73.43781 42.39935,-73.43781 42.39934,73.43781 z"
+       transform="matrix(0.89848252,0,0,0.89848252,-702.42967,643.81236)"
+       inkscape:transform-center-y="-21.994201" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2992"
+       y="350.91028"
+       x="-338.09845"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:20px"
+         y="350.91028"
+         x="-338.09845"
+         id="tspan2994"
+         sodipodi:role="line">Shapes to use</tspan></text>
+  </g>
+</svg>

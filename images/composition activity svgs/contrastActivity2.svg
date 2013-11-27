@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="contrastActivity2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="231.85137"
+     inkscape:cy="236.45295"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="lockedBackground"
+       sodipodi:insensitive="true"
+       inkscape:label="#g3408">
+      <desc
+         id="desc3418">don't move</desc>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3384"
+         y="438.07648"
+         x="860.00006"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="438.07648"
+           x="860.00006"
+           id="tspan3386"
+           sodipodi:role="line">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+         x="840"
+         y="893.79077"
+         id="text3388"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3390"
+           x="840"
+           y="893.79077">2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3392"
+         y="513.79077"
+         x="278.57144"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="513.79077"
+           x="278.57144"
+           id="tspan3394"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+         x="150"
+         y="899.50507"
+         id="text3396"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3398"
+           x="150"
+           y="899.50507">4</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1087.7451"
+       y="355.87372"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="355.87372"
+         style="font-size:20px"
+         id="tspan3357">Create a composition so that the order of dominance is from 1 to 4.</tspan><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="380.87372"
+         style="font-size:20px"
+         id="tspan3008">(the eye moves in the order 1, 2, 3 and 4)</tspan><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="405.87372"
+         style="font-size:20px"
+         id="tspan3000">The given 4 points are fixed.</tspan><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="430.87372"
+         style="font-size:20px"
+         id="tspan3002">You can use just two colors. </tspan><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="455.87372"
+         style="font-size:20px"
+         id="tspan3382">You can use multiple squares of different sizes. </tspan><tspan
+         sodipodi:role="line"
+         x="1087.7451"
+         y="480.87372"
+         style="font-size:20px"
+         id="tspan3380" /></text>
+    <rect
+       y="395.85205"
+       x="-254.48145"
+       height="207.14285"
+       width="207.14285"
+       id="rect3402"
+       style="fill:#cccccc;stroke:none" />
+    <rect
+       y="635.45105"
+       x="-244.91425"
+       height="100.51476"
+       width="100.51476"
+       id="rect3404"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.48524365" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3010"
+       y="357.87372"
+       x="-256.25488"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3022"
+         style="font-size:20px"
+         y="357.87372"
+         x="-256.25488"
+         sodipodi:role="line">shapes and color to use</tspan></text>
+  </g>
+</svg>
