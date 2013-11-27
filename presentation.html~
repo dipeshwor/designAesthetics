@@ -61,7 +61,8 @@
 			</p>	
 	
 		</section> <!-- end of intro-->			
-		<section> <!-- 2. composition in design -->
+		<!-- 2. composition in design -->
+		<section> <!-- composition in music -->
 			<h2>
 				Composition in music
 			</h2>			
@@ -71,144 +72,54 @@
 			<p class="fragment fade">
 				the manipulation of aspects like melody, harmony, form, rhyth and timbre
 			</p>	
-		</section>
-		<section>
+		</section> <!-- end composition in music -->
+		<section> <!-- composition in painting -->
 			<h2>
-				Composition in art
+				Composition in painting
 			</h2>			
 			<p class="fragment fade">
-				<strong>Story<strong>
+				<strong>Story</strong>
 			</p>	
 			<p class="fragment fade">
 				relationships between elements 
 			</p>	
 			<p class="fragment fade">
-				Self sustainable
+				<strong>composition</strong><br>
+				arrangements of the elements in the painting
 			</p>
+			<p class="fragment fade">
+				a good composition attracts the viewer’s eye and engages it, guiding his eye throughout the painting
+			</p>
+
+		</section>
+		<section>
 			<p>
-				<table class="fragment fade"> <!-- table not centered-->
-					<tr>
-						<th>Amount</th>
-						<th>Class/month</th>
-						<th>Students/class</th>
-						<th>Grades</th>
-						<th>Schools</th>
-						<th>Total</th>
-					</tr>
-					<tr>
-						<td>60</td>
-						<td>4</td>
-						<td>20</td>
-						<td>3</td>
-						<td>5</td>
-						<td>72,000</td>
-					</tr>
-					<tr>
-						<td>80</td>
-						<td>4</td>
-						<td>20</td>
-						<td>3</td>
-						<td>5</td>
-						<td>96,000</td>
-					</tr>
-					
-				</table>
-			</p>
-
-		</section>
-		
-		<section>
+				<img src="images/compositionPainting.jpg" />			</p>
+			
+		</section><!-- end composition in painting -->
+		<section> <!-- composition in photography -->
 			<h2>
-				Early 2015
+				Composition in photography
 			</h2>			
 			<p class="fragment fade">
-				Train young energetic people to deliver our curriculum <br>
-				Core team focuses on creating new content
+				arranging elements in a way that convery the the core idea or goal
+
 			</p>	
 			<p class="fragment fade">
-				10 partner schools in Kathmandu
-			</p>
-			<p class="fragment fade">
-				Expand our network to
-				<ol class="fragment fade">
-					<li>Pokhara</li>
-					<li>Biratnagar</li>
-				<ol>
-			</p>
-			<p class="fragment fade">
-				Train the teachers in the schools <br>
-				Hire qualified local youth to deliver the curriculum 
-			</p>		
-
-		</section>
-		<section>
-			<h2>
-				Mid 2015
-			</h2>			
-			<p class="fragment fade">
-				~5 lakh students appear SLC every year<br>				
-			</p>
-			<p class="fragment fade">	
-				Certification with a value equivalent to SLC <br>
-				Alternative to the existing national curriculum for parents and schools
+			a way of guiding the viewer’s eye towards the most important elements of your work, sometimes – in a very specific order.
 			</p>	
-			<p class="fragment fade">
-				Schools all over Nepal can access our 
-				<ol class="fragment fade">
-					<li>Curriculum</li>
-					<li>Tools/Kits</li>
-					<li>Teachers' training </li>
-					<li>Summer/Winter Camps</li>
-					<li>Android apps</li>
-					<li>Online courses</li>
-				<ol>
-			</p>
-			<p class="fragment fade">	
-				Revenues around 15 lakhs
-			</p>		
-		</section>
-
-		<section>
-			<h2>
-				Early 2016
-			</h2>			
-			<p class="fragment fade">
-				Export our curriculum to
-				<ol class="fragment fade">
-					<li>Bangladesh</li>
-					<li>India</li>
-					<li>Singapore</li>
-				<ol>
-				Parternership with regional schools
-			</p>
-			<p class="fragment fade">
-				International certification with affliation with a renowned institution 
-			</p>
-			<p align="center">	
-			<img src="images/chart_1.png"/>
-			</p>
 		</section>
 		<section>
-			<h2>
-				In 3 years
-			</h2>			
-			<p class="fragment fade">
-				Karkhana - a growing global company <br>
-				Improve the education system<br>
-				Generate revenues around 30 lakhs
-			</p>
-			<img src="images/earth.png" />
-			
+			<p>
+				<img src="images/photograph1.jpg" />			</p>
 			
 		</section>
+		<section>
+			<p>
+				<img src="images/photograph2.jpg" />			</p>
+			
+		</section><!-- end composition in photography -->
 		
-		<section>
-			<h2>
-				Questions
-			</h2>			
-			<img src="images/question.png" />
-		</section>
-
 		</div>
 	</div>
 	
@@ -217,23 +128,16 @@
 	<script>
         	Reveal.initialize({
 
-    // Display controls in the bottom right corner
+		    // Display controls in the bottom right corner
+		    controls: false,
+		    // Display a presentation progress bar
+		    progress: false,
+		    // Vertical centering of slides
+		    center: true,
+		    // Transition style
+		    transition: 'zoom', // default/cube/page/concave/zoom/linear/fade/none
 
-    controls: false,
-
-    // Display a presentation progress bar
-
-    progress: false,
-
-    // Vertical centering of slides
-
-    center: true,
-
-    // Transition style
-
-    transition: 'zoom', // default/cube/page/concave/zoom/linear/fade/none
-
-});
-                </script>	
+		});
+        </script>	
 	</body>
 </html>
