@@ -77,16 +77,44 @@
 				Composition in art
 			</h2>			
 			<p class="fragment fade">
-				<strong>Story</strong>
+				<strong>Story<strong>
 			</p>	
 			<p class="fragment fade">
 				relationships between elements 
 			</p>	
 			<p class="fragment fade">
-				<strong>composition</strong><br>
-				arrangements of the elements in the painting
+				Self sustainable
 			</p>
-			
+			<p>
+				<table class="fragment fade"> <!-- table not centered-->
+					<tr>
+						<th>Amount</th>
+						<th>Class/month</th>
+						<th>Students/class</th>
+						<th>Grades</th>
+						<th>Schools</th>
+						<th>Total</th>
+					</tr>
+					<tr>
+						<td>60</td>
+						<td>4</td>
+						<td>20</td>
+						<td>3</td>
+						<td>5</td>
+						<td>72,000</td>
+					</tr>
+					<tr>
+						<td>80</td>
+						<td>4</td>
+						<td>20</td>
+						<td>3</td>
+						<td>5</td>
+						<td>96,000</td>
+					</tr>
+					
+				</table>
+			</p>
+
 		</section>
 		
 		<section>
